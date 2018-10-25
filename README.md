@@ -1,3 +1,7 @@
+Solution to provided codetest below (entry-level junior java backend)
+
+
+
 # api-probe-template
 
 Template for API probe coding test.
