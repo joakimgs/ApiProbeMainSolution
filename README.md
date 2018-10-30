@@ -1,12 +1,5 @@
 Solution to provided codetest below (entry-level junior java backend)
 
-<details><summary>Console Output:</summary>
-<p>
-![](https://gyazo.com/c3e5e3eb4ca1cfc56119b5ea3f6ea73a.png)
-![](https://gyazo.com/9092b3b3b07ced90736c0c5086dd35f6.png)
-</p>
-</details>
-
 # api-probe-template
 
 Template for API probe coding test.
